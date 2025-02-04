@@ -17,12 +17,22 @@
 
 ###
 
-<p align="left">Я начинающий Data Scientist и ML engineer. Мой путь в IT начался в Skillbox, где я закончила курсы  "Введение в Data Science" и "Machine Learning Junior". Так же в дополнение закончила курсы "Основы статистики и теории вероятностей Advanced" и "Основы математики для Data Science".  В настоящий момент начала обучение на курсе  "Machine Learning Advanced" и ищу свою первую работу в качестве Data Scientist 🔭 .</p>
+<p align="left">Я начинающий Data Scientist и ML engineer. Мой путь в IT начался в Skillbox, где я закончила следующие курсы:
+  
+  - "Введение в Data Science"
+    
+  - "Machine Learning Junior"
+    
+  - "Основы статистики и теории вероятностей Advanced"
+    
+  - "Основы математики для Data Science".
+
+  В настоящий момент начала обучение на курсе  "Machine Learning Advanced" и ищу свою первую работу в качестве Data Scientist 🔭 .</p>
 
 ###
 <h3 align="left">📕 Мои самостоятельные проекты</h3>
 
-- [Пишем Telegram-бота для подготовки к собеседованию на Frontend-разработчика](https://proglib.io/p/pishem-telegram-bota-dlya-podgotovki-k-sobesedovaniyu-na-frontend-razrabotchika-2024-05-29)
+- [](https://proglib.io/p/pishem-telegram-bota-dlya-podgotovki-k-sobesedovaniyu-na-frontend-razrabotchika-2024-05-29)
 - [Пишем Telegram-бота для фильтрации нецензурной лексики в чате](https://proglib.io/p/pishem-telegram-bota-dlya-filtracii-necenzurnoy-leksiki-v-chate-2024-07-15)
 
 ###
