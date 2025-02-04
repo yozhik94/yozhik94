@@ -11,11 +11,6 @@
   </a>
 </div>
 
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=filimonovalexey.filimonovalexey&"  />
-</div>
 
 ###
 
@@ -31,9 +26,15 @@
 - [Пишем Telegram-бота для подготовки к собеседованию на Frontend-разработчика](https://proglib.io/p/pishem-telegram-bota-dlya-podgotovki-k-sobesedovaniyu-na-frontend-razrabotchika-2024-05-29)
 - [Пишем Telegram-бота для фильтрации нецензурной лексики в чате](https://proglib.io/p/pishem-telegram-bota-dlya-filtracii-necenzurnoy-leksiki-v-chate-2024-07-15)
 
+###
+<h3 align="left">💾 Базы данных:</h3>
 
 ###
 
+<div align="left">
+  ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+###
 <h3 align="left">🛠 Технологии:</h3>
 
 ###
